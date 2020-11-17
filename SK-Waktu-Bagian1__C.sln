@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SK-Waktu-Bagian1__C", "SK-Waktu-Bagian1__C\SK-Waktu-Bagian1__C.vcxproj", "{01369732-151B-4134-B222-89E042BBE0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01369732-151B-4134-B222-89E042BBE0ED}.Debug|x64.ActiveCfg = Debug|x64
+		{01369732-151B-4134-B222-89E042BBE0ED}.Debug|x64.Build.0 = Debug|x64
+		{01369732-151B-4134-B222-89E042BBE0ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{01369732-151B-4134-B222-89E042BBE0ED}.Debug|x86.Build.0 = Debug|Win32
+		{01369732-151B-4134-B222-89E042BBE0ED}.Release|x64.ActiveCfg = Release|x64
+		{01369732-151B-4134-B222-89E042BBE0ED}.Release|x64.Build.0 = Release|x64
+		{01369732-151B-4134-B222-89E042BBE0ED}.Release|x86.ActiveCfg = Release|Win32
+		{01369732-151B-4134-B222-89E042BBE0ED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {017CCA7B-250D-4797-909A-0331954CEAA1}
+	EndGlobalSection
+EndGlobal
